@@ -18,7 +18,7 @@ body {
 
 
 .menu-icon {
-    font-size: 35px;
+    font-size: 25px;
     cursor: pointer;
     background-color: transparent;
     border: none;
@@ -75,13 +75,9 @@ body {
     color: #333;
     font-size: 22px;
     cursor: pointer;
-    transition: transform 0.2s ease-in-out;
+   
 }
 
-.close-btn:hover {
-
-    color: red;
-}
 
 /* 📌 Sidebar Navigation Links */
 .sidebar ul {
